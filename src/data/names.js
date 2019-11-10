@@ -1,0 +1,19 @@
+export default
+[
+	'Abel',
+	'Adam',
+	'Adele',
+	'Alice',
+	'Allen',
+	'Babbs',
+	'Bertha',
+	'Bruce',
+	'Calvin',
+	'Carol',
+	'Charlotte',
+  'Collin',
+  'Danny',
+  'Debra',
+  'Diana',
+  'Donna'    
+]

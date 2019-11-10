@@ -1,0 +1,11 @@
+import React, { useEffect } from 'react';
+import querystring from 'query-string'; // fix for url parsing in ie11
+import { Example } from './pages';
+
+const App = () => {
+  const urlString = window.location.search;
+  const query = querystring.parse(urlString);
+  return <Example />;
+};
+
+export default App;
